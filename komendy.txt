@@ -16,3 +16,9 @@ Options:
     -h, --help                   output usage information
     -V, --version                output the version number
     -f, --formatter <formatter>  Choose the formatter to use. (stylish, json)
+
+Formats the given results with the formatter matching the given name. (can either be "stylish" or "json")
+
+example: nu-html-checker *.html
+
+*.html - all files with format html
