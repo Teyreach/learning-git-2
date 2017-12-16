@@ -1,0 +1,18 @@
+1.autoprefixer-cli commands usage:
+
+example: autoprefixer-cli -o style.prefixed.css style.css
+ 
+-o, --output FILE        set output file
+
+where style.css is original file
+
+2.nu-html-checker commands usage:
+
+cli [options] <files/urls ...>
+
+
+Options:
+
+    -h, --help                   output usage information
+    -V, --version                output the version number
+    -f, --formatter <formatter>  Choose the formatter to use. (stylish, json)
